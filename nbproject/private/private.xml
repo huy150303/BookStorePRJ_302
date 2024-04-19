@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/DAO/SuppliersDAO.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/controller/controllerAdminCustomer.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/controller/controllerAdminSuppliers.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/admin/updateBook.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/images/tamlytoipham.jpg</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/admin/suppliersList.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/admin/ordersList.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/css/style.css</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/images/Duatredaiduong.jpg</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/DAO/CustomersDAO.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/admin/GenresDetail.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/entity/Suppliers.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/admin/customerList.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/controller/controllerAdminBooks.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/admin/GenresList.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/DAO/OrderItemsDAO.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/DAO/BookGenresDAO.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/filter/filterOfStore.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/admin/updateOrder.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/controller/controllerBooks.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/entity/Customers.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/controller/controllerAdminOrderItem.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/images/ghichepphapy.jpg</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/DAO/OrderDAO.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/DAO/DBcontext.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/admin/updateGenres.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/entity/OrderItem.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/DAO/BooksDAO.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/admin/orderItemList.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/controller/controllerCart.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/controller/controllerAdminOrder.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/web/admin/updateCustomer.jsp</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/entity/Orders.java</file>
+            <file>file:/C:/Users/Admin/OneDrive/Documents/NetBeansProjects/PRJ302_IS1804_Assignment/src/java/entity/bookGenres.java</file>
+        </group>
+    </open-files>
+</project-private>

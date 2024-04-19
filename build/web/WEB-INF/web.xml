@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="6.0" xmlns="https://jakarta.ee/xml/ns/jakartaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd">
+    <filter>
+        <filter-name>filterOfStore</filter-name>
+        <filter-class>filter.filterOfStore</filter-class>
+        <init-param>
+            <param-name>Name</param-name>
+            <param-value>Value</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>filterOfStore</filter-name>
+        <url-pattern>/admin</url-pattern>
+        <url-pattern>/admincus</url-pattern>
+        <url-pattern>/admingenres</url-pattern>
+        <url-pattern>/adminorder</url-pattern>
+        <url-pattern>/adminorderitem</url-pattern>
+        <url-pattern>/adminsuppliers</url-pattern>
+        <url-pattern>/profile.jsp</url-pattern>
+        <url-pattern>/cart</url-pattern>
+        
+    </filter-mapping>
+</web-app>
